@@ -1,0 +1,19 @@
+{
+  "home_screen_title": "ஐந்நூற்றுவர் 500",
+  "maintenance": {
+    "title": "நிர்வாகப் பணி",
+    "msg": "நிர்வாக பணிகள் நடைபெறுகிறது: சற்று நேரத்திற்கு பின் முயலவும்"
+  },
+  "update_required": {
+    "title": "புதிய பதிப்பு தேவை",
+    "msg": "புதிய வசதிகளைப் பெற செயலியை பிளே ஸ்டோரில் புதுப்பிக்கவும்"
+  },
+  "share_config": {
+    "line1": "Shared from Ainnurruvar-500",
+    "line2": "Community App",
+    "line3_app_url": "https://play.google.com/store/apps/details?id=com.pimu.Ainnurruvar_500",
+    "line4_web_label": "Website:",
+    "line4_web_url": "https://www.ainoottruvar.com",
+    "divider": "________________________"
+  }
+}

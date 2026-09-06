@@ -1,0 +1,14 @@
+{
+  "system": {
+    "min_app_version_code": 1
+  },
+  "feature_flags": {
+    "polls_enabled": true,
+    "reminders_enabled": true,
+    "ads_enabled": false
+  },
+  "directory_census": {
+    "sharing_limit_per_day": 3,
+    "highlight_threshold_days": 30
+  }
+}
