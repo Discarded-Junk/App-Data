@@ -1,146 +1,146 @@
 {
-  "overall_version": 66,
+  "overall_version": 67,
   "schema_version": 1,
   "maintenance": false,
-  "updated_at": "2026-09-08 11:02:21",
+  "updated_at": "2026-09-08 11:34:06",
   "sections": {
     "screens": [
       {
         "name": "home_buttons.json",
-        "ver": 2,
-        "hash": "28cba4a426bf8a70a96b7239357d665d",
+        "ver": 3,
+        "hash": "b2565ff97ad4978f034bd6dfbc0719ae",
         "size": 615
       },
       {
         "name": "kanda_sashti_kavasam.json",
-        "ver": 2,
-        "hash": "c1fcd98592eb2512be67ba0e6c8d62e2",
+        "ver": 3,
+        "hash": "bc5690480fdcfbfbbfb91e3b3ec33444",
         "size": 25442
       },
       {
         "name": "kolaru_pathikam.json",
-        "ver": 2,
-        "hash": "eba5591f9b6140deca60f20dc5a36886",
+        "ver": 3,
+        "hash": "d8c6adb52b2c372d49f21cd8e7332dac",
         "size": 9207
       },
       {
         "name": "kovilkal.json",
-        "ver": 30,
-        "hash": "00c95e625465e97baf3eab45c65ec94d",
+        "ver": 31,
+        "hash": "cc6e1082b1dedb4406a345f89e7f0e6b",
         "size": 38369
       },
       {
         "name": "mahishasura_mardhini.json",
-        "ver": 2,
-        "hash": "3ab30aedb31974523356803e767125f1",
+        "ver": 3,
+        "hash": "d5a72a3a1d0312c6846216d22c248c9b",
         "size": 14365
       },
       {
         "name": "Main_menu_buttons.json",
-        "ver": 2,
-        "hash": "d2f362cc1482734996106b1eab16664b",
+        "ver": 3,
+        "hash": "611ff1fde5fd828011501ff8b781139b",
         "size": 19764
       },
       {
         "name": "manifest.json",
-        "ver": 1,
-        "hash": "fef2645844206a1600e6e2a1f078137d",
+        "ver": 2,
+        "hash": "94d2b296691158d383d05b39a17dc8d2",
         "size": 7794
       },
       {
         "name": "muhurtham_varai.json",
-        "ver": 2,
-        "hash": "c5cc174b24418da7feb56fb876b02943",
+        "ver": 3,
+        "hash": "6baf83ddf584a6b4fdb3da2edff36210",
         "size": 46331
       },
       {
         "name": "muhurthathirku_pin.json",
-        "ver": 2,
-        "hash": "835f0edf47ac8e04c8098fb7d200750e",
+        "ver": 3,
+        "hash": "33466257b839270b95a6a465eaf2fa2a",
         "size": 37992
       },
       {
         "name": "nichaya_thamboolam.json",
-        "ver": 2,
-        "hash": "3792ce2790d6178751614eac914c4a32",
+        "ver": 3,
+        "hash": "8c3867b6f1cc26f10953c1688d0acd34",
         "size": 32483
       },
       {
         "name": "oonjal_thirupor.json",
-        "ver": 2,
-        "hash": "690525943c706c57b7cd91ebfcb90cce",
+        "ver": 3,
+        "hash": "a42a15299d8c887cd2b5537cb9d9189c",
         "size": 18947
       },
       {
         "name": "pandikaikal.json",
-        "ver": 2,
-        "hash": "0e13e92de99055b207d49a8dfba2b12e",
+        "ver": 3,
+        "hash": "099e07d3a77e12d230688d7dbfdced9a",
         "size": 65613
       },
       {
         "name": "pira_kaariyankal.json",
-        "ver": 2,
-        "hash": "c95c64c240712097e7ad970e0b7f7fa6",
+        "ver": 3,
+        "hash": "06d24488203fdaa3bd8b9c3cde387bf2",
         "size": 54212
       },
       {
         "name": "potri_thiruthaandakam.json",
-        "ver": 2,
-        "hash": "bfdb37d63c16d732783108283e9ba97d",
+        "ver": 3,
+        "hash": "70c280d1e2e2efced58afaf6c06f2603",
         "size": 9853
       },
       {
         "name": "saamaankal_list.json",
-        "ver": 2,
-        "hash": "90af5980cc4a75a9a34a3d5663aa0e3e",
+        "ver": 3,
+        "hash": "eb0a9dcb6da23b49610b54938578fb8e",
         "size": 38999
       },
       {
         "name": "sivapuraanam.json",
-        "ver": 2,
-        "hash": "b16703d0be384d55ba7822443d5ceaf1",
+        "ver": 3,
+        "hash": "07f54a9df9996fd3e95467adea142e0b",
         "size": 12541
       },
       {
         "name": "subha_kaariyankal.json",
-        "ver": 2,
-        "hash": "c48044b5358711cc17cee876e27a5f86",
+        "ver": 3,
+        "hash": "2f24681b7d9c7f2cbb9cd1da88ac80ef",
         "size": 24413
       },
       {
         "name": "thirumanathirku_mun.json",
-        "ver": 2,
-        "hash": "3151d2b0386d65989626cd60244bedea",
+        "ver": 3,
+        "hash": "07585809bccab5dc008575903e61b3fc",
         "size": 18324
       },
       {
         "name": "thirumanathirku_pin.json",
-        "ver": 2,
-        "hash": "63b868870803e33785df47c8ca54ce4f",
+        "ver": 3,
+        "hash": "306cd4e1c1cf8e012eaaafbcbb43a453",
         "size": 16148
       },
       {
         "name": "thirumana_naal_seerkal.json",
-        "ver": 2,
-        "hash": "8022324a88ce5510ae3e5b2d308dcda4",
+        "ver": 3,
+        "hash": "eb6bffad84e125afc3d7bbbcf2e1237b",
         "size": 12386
       },
       {
         "name": "thiruvempaavai.json",
-        "ver": 2,
-        "hash": "42aa8aa84a0724422cce036277f1dd57",
+        "ver": 3,
+        "hash": "db34a608ea864a7ef0302c6cac898c6c",
         "size": 20888
       },
       {
         "name": "vazhimuraikal.json",
-        "ver": 2,
-        "hash": "796e737ae0d273365dc7628aec5f84d3",
+        "ver": 3,
+        "hash": "0466ef32f7c08a312ac50471564221fd",
         "size": 1576
       },
       {
         "name": "vinayagar_akaval.json",
-        "ver": 9,
-        "hash": "124f8866ba91161006aab977a11f32ee",
+        "ver": 10,
+        "hash": "8f199670fa6dc0b0425ff5b5ff049782",
         "size": 11729
       }
     ],
@@ -341,26 +341,26 @@
     "utilities": [
       {
         "name": "app_level_msg_config.json",
-        "ver": 1,
-        "hash": "c500f31739a98eed0d4a701765fd6ba4",
+        "ver": 2,
+        "hash": "5631928ba8f079b00c6a6d043a5dbc6b",
         "size": 939
       },
       {
         "name": "control_parameters.json",
-        "ver": 5,
-        "hash": "e2d3a4bfe94a36c870a5ade242fe1aa8",
-        "size": 271
+        "ver": 6,
+        "hash": "d0aded49b0a444fbfc13304edb2f281c",
+        "size": 272
       },
       {
         "name": "external_config.json",
-        "ver": 1,
-        "hash": "87954db9e2a8b3fb3b743e3b15561eeb",
+        "ver": 2,
+        "hash": "373f0490004a81b8f2dbfaeee71eb0bd",
         "size": 441
       },
       {
         "name": "help_data.json",
-        "ver": 1,
-        "hash": "c739ea4e8e1cd05b7b1f890a237977cf",
+        "ver": 2,
+        "hash": "3ff95a21cd1264fb8ef573dff2d3c306",
         "size": 6618
       },
       {
@@ -371,20 +371,20 @@
       },
       {
         "name": "poll.json",
-        "ver": 3,
-        "hash": "1c8b78fe9680609a134d27b2b21ad537",
+        "ver": 4,
+        "hash": "a03b588200e7b91ab896a92029a1e2d7",
         "size": 287
       },
       {
         "name": "reminders.json",
-        "ver": 9,
-        "hash": "359f4820606c641635c250471a62a558",
+        "ver": 10,
+        "hash": "766b3796db785818b4022ca570c3e8b1",
         "size": 1955
       },
       {
         "name": "share-msg.json",
-        "ver": 1,
-        "hash": "f39894d1c8d26ec81933a52960bde603",
+        "ver": 2,
+        "hash": "b2916273dafd7826d4523b0db3d10514",
         "size": 396
       }
     ],
