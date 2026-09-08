@@ -3,8 +3,8 @@
     "min_app_version_code": 1
   },
   "feature_flags": {
-    "polls_enabled": true,
-    "reminders_enabled": true,
+    "polls_enabled": false,
+    "reminders_enabled": falses,
     "ads_enabled": false
   },
   "directory_census": {
