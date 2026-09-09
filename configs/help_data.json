@@ -93,10 +93,10 @@
         "desc_en": "Use Share, Rate, or Suggestions in the menu to stay connected with us."
       },
       {
-        "name_ta": "தரவு ஒத்திசைவு (Sync)",
-        "name_en": "Data Sync",
-        "desc_ta": "மெனுவின் கீழே உள்ள ↻ குறியீட்டை அழுத்தி புதிய தகவல்களை உடனுக்குடன் பதிவிறக்கம் செய்யலாம்.",
-        "desc_en": "Tap the ↻ icon at the bottom of the side menu to download latest updates."
+        "name_ta": "செயலி மற்றும் தரவு புதுப்பிப்பு (Update)",
+        "name_en": "App & Data Update",
+        "desc_ta": "மெனுவின் கீழே உள்ள பச்சை நிற 'UPDATE' பொத்தானை அழுத்தி புதிய தகவல்களை உடனுக்குடன் பதிவிறக்கம் செய்யலாம்.",
+        "desc_en": "Tap the green 'UPDATE' button at the bottom of the side menu to download the latest information and app updates."
       }
     ]
   }

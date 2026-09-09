@@ -1,8 +1,10 @@
 {
-  "overall_version": 77,
+  "overall_version": 78,
   "schema_version": 1,
+  "min_app_version_code": 1,
+  "force_update": false,
   "maintenance": false,
-  "updated_at": "2026-09-09 10:08:35",
+  "updated_at": "2026-09-09 17:58:42",
   "sections": {
     "screens": [
       {
@@ -341,9 +343,9 @@
     "utilities": [
       {
         "name": "app_level_msg_config.json",
-        "ver": 2,
-        "hash": "5631928ba8f079b00c6a6d043a5dbc6b",
-        "size": 939
+        "ver": 3,
+        "hash": "a6b9087fb81d7c7d0239ef9433f5826b",
+        "size": 1118
       },
       {
         "name": "control_parameters.json",
@@ -359,9 +361,9 @@
       },
       {
         "name": "help_data.json",
-        "ver": 2,
-        "hash": "3ff95a21cd1264fb8ef573dff2d3c306",
-        "size": 6618
+        "ver": 3,
+        "hash": "d75e212dffcd5234847ca910f4f7766a",
+        "size": 6739
       },
       {
         "name": "index.json",
