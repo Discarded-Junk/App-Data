@@ -1,10 +1,10 @@
 {
-  "overall_version": 90,
+  "overall_version": 91,
   "schema_version": 1,
   "min_app_version_code": 2,
-  "force_update": false,
+  "force_update": true,
   "maintenance": false,
-  "updated_at": "2026-09-09 21:57:32",
+  "updated_at": "2026-09-09 22:34:10",
   "sections": {
     "screens": [
       {
