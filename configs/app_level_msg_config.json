@@ -9,9 +9,10 @@
     "msg": "புதிய வசதிகளைப் பெற செயலியை பிளே ஸ்டோரில் புதுப்பிக்கவும்"
   },
   "update_alerts": {
-    "soft_msg": "New App version available",
-    "hard_title": "Old Version of App",
-    "hard_msg": "New Version of App is available",
+    "badge_msg": "App Update Pending",
+    "soft_msg": "App Update Available",
+    "hard_title": "App Version is Old !",
+    "hard_msg": "Update to New Version of App",
     "btn_update": "UPDATE",
     "btn_later": "LATER"
   },
