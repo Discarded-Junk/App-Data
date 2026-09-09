@@ -1,8 +1,8 @@
 {
-  "overall_version": 76,
+  "overall_version": 77,
   "schema_version": 1,
   "maintenance": false,
-  "updated_at": "2026-09-09 10:01:38",
+  "updated_at": "2026-09-09 10:08:35",
   "sections": {
     "screens": [
       {
@@ -347,9 +347,9 @@
       },
       {
         "name": "control_parameters.json",
-        "ver": 15,
-        "hash": "d0aded49b0a444fbfc13304edb2f281c",
-        "size": 272
+        "ver": 16,
+        "hash": "912f266f380a5a8baea1da4b76239a2f",
+        "size": 271
       },
       {
         "name": "external_config.json",
