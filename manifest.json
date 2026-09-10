@@ -1,10 +1,10 @@
 {
-  "overall_version": 95,
+  "overall_version": 96,
   "schema_version": 1,
   "min_app_version_code": 1,
   "force_update": false,
   "maintenance": false,
-  "updated_at": "2026-09-10 15:32:50",
+  "updated_at": "2026-09-10 15:46:52",
   "sections": {
     "screens": [
       {
@@ -349,8 +349,8 @@
       },
       {
         "name": "control_parameters.json",
-        "ver": 17,
-        "hash": "6a551f5cac95ed422cc47720a4bc888d",
+        "ver": 18,
+        "hash": "42e9be4437b73a462d0ab90b6bdc5c96",
         "size": 370
       },
       {
