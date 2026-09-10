@@ -10,5 +10,9 @@
   "directory_census": {
     "sharing_limit_per_day": 3,
     "highlight_threshold_days": 30
+  },
+  "sync_settings": {
+    "throttle_interval_hours": 0,
+    "cooldown_interval_minutes": 0
   }
 }
