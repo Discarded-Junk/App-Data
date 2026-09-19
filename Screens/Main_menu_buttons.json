@@ -63,6 +63,7 @@
       "id": "nirvaaka_uruppinarkal",
       "type": "CONTACTS",
       "title": "நிர்வாக உறுப்பினர்கள்",
+      "fab": "nirvaakam",
       "payload": {
         "shareable": false,
         "groups": [
@@ -255,6 +256,7 @@
       "id": "mukkiya_enkal",
       "type": "CONTACTS",
       "title": "முக்கிய எண்கள்",
+      "fab": "thodarpukal",
       "payload": {
         "shareable": true,
         "groups": [
@@ -313,6 +315,7 @@
       "id": "namathu_samayal",
       "type": "TEXT",
       "title": "நமது சமையல்",
+      "fab": "home",
       "payload": {
         "shareable": true,
         "html": [
@@ -353,6 +356,7 @@
       "id": "mandapam_booking_instructions",
       "type": "TEXT",
       "title": "மண்டபம் முன்பதிவு",
+      "fab": "mandapam",
       "payload": {
         "shareable": true,
         "html": [

@@ -1,10 +1,10 @@
 {
-  "overall_version": 98,
+  "overall_version": 99,
   "schema_version": 1,
   "min_app_version_code": 1,
   "force_update": false,
   "maintenance": false,
-  "updated_at": "2026-09-10 16:38:32",
+  "updated_at": "2026-09-19 14:44:21",
   "sections": {
     "screens": [
       {
@@ -27,9 +27,9 @@
       },
       {
         "name": "kovilkal.json",
-        "ver": 31,
-        "hash": "cc6e1082b1dedb4406a345f89e7f0e6b",
-        "size": 38369
+        "ver": 32,
+        "hash": "f8741b2ed26f0899b59e04e31c8a065a",
+        "size": 39112
       },
       {
         "name": "mahishasura_mardhini.json",
@@ -39,9 +39,9 @@
       },
       {
         "name": "Main_menu_buttons.json",
-        "ver": 3,
-        "hash": "611ff1fde5fd828011501ff8b781139b",
-        "size": 19764
+        "ver": 4,
+        "hash": "f652b39638b4419f3a1e016e7e103eff",
+        "size": 19868
       },
       {
         "name": "manifest.json",
