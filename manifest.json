@@ -1,10 +1,10 @@
 {
-  "overall_version": 101,
+  "overall_version": 102,
   "schema_version": 1,
   "min_app_version_code": 1,
   "force_update": false,
   "maintenance": false,
-  "updated_at": "2026-09-20 12:09:42",
+  "updated_at": "2026-09-20 15:22:55",
   "sections": {
     "screens": [
       {
@@ -355,8 +355,8 @@
       },
       {
         "name": "external_config.json",
-        "ver": 3,
-        "hash": "3a26a55a8c3f73c947425f7f5361ff3c",
+        "ver": 4,
+        "hash": "95dee52abe3743eeb52a880c02ced8a7",
         "size": 970
       },
       {
